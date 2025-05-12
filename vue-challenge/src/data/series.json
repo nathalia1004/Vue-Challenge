@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "title": "Iron Man",
+    "startYear": 2008,
+    "endYear": 2008,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/I/71gGg48AKcL._AC_UF1000,1000_QL80_.jpg",
+    "comics": 5,
+    "stories": 3
+  },
+  {
+    "id": "2",
+    "title": "The Incredible Hulk",
+    "startYear": 2008,
+    "endYear": 2008,
+    "type": "movie",
+    "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/6/w300/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+    "comics": 3,
+    "stories": 2
+  },
+  {
+    "id": "3",
+    "title": "Iron Man 2",
+    "startYear": 2010,
+    "endYear": 2010,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/32f814509611966ca9bab737cea7655793429c9641bb1da1cad3ca7aeab0af40.jpg",
+    "comics": 6,
+    "stories": 4
+  },
+  {
+    "id": "4",
+    "title": "Thor",
+    "startYear": 2011,
+    "endYear": 2011,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ2NjA1Mjc4Ml5BMl5BanBnXkFtZTgwMTkyNjQ2MDE@._V1_.jpg",
+    "comics": 4,
+    "stories": 3
+  },
+  {
+    "id": "5",
+    "title": "Captain America: The First Avenger",
+    "startYear": 2011,
+    "endYear": 2011,
+    "type": "movie",
+    "thumbnail": "https://images.justwatch.com/poster/118837680/s718/capitan-america-el-primer-vengador.jpg",
+    "comics": 5,
+    "stories": 2
+  },
+  {
+    "id": "6",
+    "title": "The Avengers",
+    "startYear": 2012,
+    "endYear": 2012,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/I/71Sb4AfzGTL.jpg",
+    "comics": 7,
+    "stories": 5
+  },
+  {
+    "id": "7",
+    "title": "Guardians of the Galaxy",
+    "startYear": 2014,
+    "endYear": 2014,
+    "type": "movie",
+    "thumbnail": "https://images.justwatch.com/poster/123144401/s718/guardianes-de-la-galaxia.jpg",
+    "comics": 4,
+    "stories": 3
+  },
+  {
+    "id": "8",
+    "title": "Black Panther",
+    "startYear": 2018,
+    "endYear": 2018,
+    "type": "movie",
+    "thumbnail": "https://i5.walmartimages.com/asr/8b9e8c90-9de7-47ee-a707-3dda8731f398.1f48da87eb91769390f2e41c1c3647a4.jpeg",
+    "comics": 6,
+    "stories": 4
+  },
+  {
+    "id": "9",
+    "title": "Avengers: Infinity War",
+    "startYear": 2018,
+    "endYear": 2018,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/3307ca0df325da35692128a6703a4bff5a5cf8c60bb719f221cadd6c03834358.jpg",
+    "comics": 8,
+    "stories": 6
+  },
+  {
+    "id": "10",
+    "title": "Avengers: Endgame",
+    "startYear": 2019,
+    "endYear": 2019,
+    "type": "movie",
+    "thumbnail": "https://m.media-amazon.com/images/I/61RhWaYBp7L._AC_UF350,350_QL50_.jpg",
+    "comics": 10,
+    "stories": 7
+  },
+  {
+    "id": "11",
+    "title": "Thunderbolts*",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "movie",
+    "thumbnail": "https://www.mubis.es/media/articles/34509/337682/nuevo-trailer-y-poster-de-thunderbolts-original.jpg",
+    "comics": 5,
+    "stories": 4
+  }
+]
